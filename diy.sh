@@ -25,3 +25,4 @@ git clone https://github.com/Leo-Jo-My/luci-theme-opentomato.git package/luci-th
 git clone https://github.com/Leo-Jo-My/luci-theme-Butterfly-dark.git package/luci-theme-Butterfly-dark
 git clone https://github.com/Leo-Jo-My/luci-theme-leo.git package/luci-theme-leo
 git clone https://github.com/rosywrt/luci-theme-purple.git package/luci-theme-purple
+git clone https://github.com/Immueggpain/luci-theme-linksysmaterial.git package/luci-theme-linksysmaterial
