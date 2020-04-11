@@ -23,3 +23,5 @@ git clone https://github.com/Mrbai98/luci-theme-atmaterial.git package/luci-them
 git clone https://github.com/Leo-Jo-My/luci-theme-opentomcat.git package/luci-theme-opentomcat
 git clone https://github.com/Leo-Jo-My/luci-theme-opentomato.git package/luci-theme-opentomato
 git clone https://github.com/Leo-Jo-My/luci-theme-Butterfly-dark.git package/luci-theme-Butterfly-dark
+git clone https://github.com/Leo-Jo-My/luci-theme-leo.git package/luci-theme-leo
+git clone https://github.com/rosywrt/luci-theme-purple.git package/luci-theme-purple
